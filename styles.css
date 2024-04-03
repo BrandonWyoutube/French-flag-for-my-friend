@@ -1,0 +1,21 @@
+.flag {
+    width: 300px; /* Adjust width as needed */
+    height: 150px; /* Adjust height as needed */
+    border: 1px solid black;
+    display: flex;
+}
+
+.blue {
+    flex: 1;
+    background-color: #0055a4;
+}
+
+.white {
+    flex: 1;
+    background-color: #ffffff;
+}
+
+.red {
+    flex: 1;
+    background-color: #ef4135;
+}
